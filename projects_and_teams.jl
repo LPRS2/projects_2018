@@ -1102,22 +1102,22 @@ projects = Project[
 				Student(
 					"Branislav",
 					"Gamf",
-					"RA-XXX/20YY",
-					"xxx@yyy",
+					"RA-128/2015",
+					"banegamf95@gmail.com",
 					0
 				),
 				Student(
 					"Dusan",
 					"Kenjic",
-					"RA-XXX/20YY",
-					"xxx@yyy",
+					"RA-130/2015",
+					"k.dule96@gmail.com",
 					0
 				),
 				Student(
 					"Nikola",
 					"Cvetanovski",
-					"RA-XXX/20YY",
-					"xxx@yyy",
+					"RA-136/2015",
+					"djnik8225@gmail.com",
 					0
 				),
 				Student(
