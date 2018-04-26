@@ -894,7 +894,7 @@ projects = Project[
 	Project(
 		"Trap Adventure",
 		45,
-		3,
+		4,
 		Team(
 			Student[
 				Student(
