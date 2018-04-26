@@ -908,21 +908,35 @@ projects = Project[
 	Project(
 		"Trap Adventure",
 		45,
-		3,
+		4,
 		Team(
 			Student[
 				Student(
-					"Name",
-					"Lastname",
-					"RA-XXX/20YY",
-					"xxx@yyy",
+					"Filip",
+					"Baba",
+					"RA-247/2016",
+					"ficke96@gmail.com",
 					0
 				),
 				Student(
-					"Name",
-					"Lastname",
-					"RA-XXX/20YY",
-					"xxx@yyy",
+					"Dejana",
+					"Radić",
+					"RA-193/2015",
+					"dejanar405@gmail.com",
+					0
+				),
+				Student(
+					"Nikola",
+					"Sakić",
+					"RA-230/2015",
+					"nikolasakic@hotmail.rs",
+					0
+				),
+				Student(
+					"Aleksandar",
+					"Rapaić",
+					"RA-198/2012",
+					"aleksandar.rapaic@gmail.com",
 					0
 				),
 			]
@@ -931,7 +945,7 @@ projects = Project[
 			"""
 			""",
 			URL[
-				URL("https://github.com/vukse95/super_mario"),
+				URL("https://github.com/blackhawkmc/LPRS2-Project-Trap_Adventure"),
 			]
 		),
 		Solution(
