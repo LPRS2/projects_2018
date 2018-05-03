@@ -935,7 +935,7 @@ projects = Project[
 			]
 		),
 		Solution(
-			"https://github.com/blackhawkmc/LPRS2-Project-Trap_Adventure", # Git repo
+			"https://github.com/blackhawkmc/Trap_Adventure", # Git repo
 			"", # Youtube
 			"", # Bit file
 			"" # Doc file
