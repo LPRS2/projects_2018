@@ -945,11 +945,11 @@ projects = Project[
 			"""
 			""",
 			URL[
-				URL("https://github.com/blackhawkmc/LPRS2-Project-Trap_Adventure"),
+				URL("https://github.com/vukse95/super_mario"),
 			]
 		),
 		Solution(
-			"https://github.com/X/Y", # Git repo
+			"https://github.com/blackhawkmc/Trap_Adventure", # Git repo
 			"", # Youtube
 			"", # Bit file
 			"" # Doc file
