@@ -951,7 +951,7 @@ projects = Project[
 		Solution(
 			"https://github.com/blackhawkmc/Trap_Adventure", # Git repo
 			"https://www.youtube.com/watch?v=n4gA8iTTFBE", # Youtube
-			"https://github.com/blackhawkmc/Trap_Adventure/tree/master/battle_city_design/demo", # Bit file
+			"https://github.com/blackhawkmc/Trap_Adventure/blob/master/battle_city_design/demo/TrapAdventure.bit", # Bit file
 			"https://github.com/blackhawkmc/Trap_Adventure/blob/master/TrapAdventure.doc" # Doc file
 		),
 		false
