@@ -83,9 +83,9 @@ projects = Project[
 		),
 		Solution(
 			"https://github.com/X/Y", # Git repo
-			"", # Youtube
-			"", # Bit file
-			"" # Doc file
+			"https://www.youtube.com/watch?v=wnii1x77cQU", # Youtube
+			"https://github.com/randomCharacter/E2LP_NES/releases/download/v1.0/nes.bit", # Bit file
+			"https://github.com/randomCharacter/E2LP_NES/blob/master/doc/dokumenracija.pdf" # Doc file
 		),
 		false
 	),
