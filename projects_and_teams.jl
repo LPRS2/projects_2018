@@ -486,10 +486,10 @@ projects = Project[
 			]
 		),
 		Solution(
-			"https://github.com/X/Y", # Git repo
-			"", # Youtube
-			"", # Bit file
-			"" # Doc file
+			"https://github.com/AleksaArsic/LPRS2-WorldsHardestGame", # Git repo
+			"https://youtu.be/WKC8rEK4Ln4", # Youtube
+			"https://github.com/AleksaArsic/LPRS2-WorldsHardestGame/blob/master/LPRS2_Asteroids_game-master/WorldsHardestGame.bit", # Bit file
+			"https://github.com/AleksaArsic/LPRS2-WorldsHardestGame/blob/master/WorldsHardestGame.docx" # Doc file
 		),
 		false
 	),
