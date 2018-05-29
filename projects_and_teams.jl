@@ -90,7 +90,7 @@ projects = Project[
 		false
 	),
 	Project(
-		"Zelda 1",
+		"Legend Of Zelda",
 		45,
 		3,
 		Team(
@@ -128,9 +128,9 @@ projects = Project[
 		Solution(
 			"https://github.com/CubeLord/LPRS2-Zelda.gitq",
 # Git repo
-			"", # Youtube
-			"", # Bit file
-			"" # Doc file
+			"https://www.youtube.com/watch?v=0CTFHpnBlLo&feature=youtu.be", # Youtube
+			"https://github.com/CubeLord/LPRS2-Zelda/blob/master/Legend_Of_Zelda.bit", # Bit file
+			"https://github.com/CubeLord/LPRS2-Zelda/blob/master/legend_of_zelda.pdf" # Doc file
 		),
 		false
 	),
