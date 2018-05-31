@@ -1166,9 +1166,9 @@ projects = Project[
 		),
 		Solution(
 			"https://github.com/stefan9x/lprs2-TowerDefence", # Git repo
-			"", # Youtube
-			"", # Bit file
-			"" # Doc file
+			"https://www.youtube.com/watch?v=-AOyvGvH7hY", # Youtube
+			"https://github.com/stefan9x/lprs2-TowerDefence/blob/master/towerdefence.bit", # Bit file
+			"https://github.com/stefan9x/lprs2-TowerDefence/blob/master/TowerDefence-dokumentacija.docx" # Doc file
 		),
 		false
 	),
