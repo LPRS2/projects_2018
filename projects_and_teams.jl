@@ -269,7 +269,7 @@ projects = Project[
 		Solution(
 			"https://github.com/NikolaMal/Stoljpi_za_duck_hunt", # Git repo
 			"https://www.youtube.com/watch?v=vlJk6v707PM", # Youtube
-			"https://github.com/NikolaMal/Stoljpi_za_duck_hunt/blob/master/Stoljpi_za_duck_hunt/Stoljpi_Project/SDK/SDK_Export/hw/system.bit", # Bit file
+			"https://github.com/NikolaMal/Stoljpi_za_duck_hunt/blob/master/Stoljpi_za_duck_hunt/Stoljpi_Project/implementation/download.bit", # Bit file
 			"https://github.com/NikolaMal/Stoljpi_za_duck_hunt/blob/master/stoljpi_doc.pdf" # Doc file
 		),
 		false
