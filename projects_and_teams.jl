@@ -354,10 +354,10 @@ projects = Project[
 			]
 		),
 		Solution(
-			"https://github.com/X/Y", # Git repo
-			"", # Youtube
-			"", # Bit file
-			"" # Doc file
+			"https://github.com/BranislavNovak/Worms", # Git repo
+			"https://www.youtube.com/watch?v=Mi3ZPkKe-oc", # Youtube
+			"https://github.com/BranislavNovak/Worms/blob/master/worms.bit", # Bit file
+			"https://github.com/BranislavNovak/Worms/blob/master/Worms.pdf" # Doc file
 		),
 		false
 	),
