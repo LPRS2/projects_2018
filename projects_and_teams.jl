@@ -651,7 +651,7 @@ projects = Project[
 	Project(
 		"Tenkići",
 		45,
-		3,
+		4,
 		Team(
 			Student[
 				Student(
@@ -692,10 +692,10 @@ projects = Project[
 			]
 		),
 		Solution(
-			"https://github.com/X/Y", # Git repo
-			"", # Youtube
-			"", # Bit file
-			"" # Doc file
+			"https://github.com/stefankoncarevic/Tenkici_ima_da_lete", # Git repo
+			"https://www.youtube.com/watch?v=Zlc82t1uIKM", # Youtube
+			"https://github.com/stefankoncarevic/Tenkici_ima_da_lete/blob/master/battle_city_design/demo/battle_city.bit", # Bit file
+			"https://drive.google.com/open?id=1-SSevX1OZZwDJ7P5RfUtQV7fHGoBChEJ" # Doc file
 		),
 		false
 	),
