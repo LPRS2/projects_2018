@@ -804,7 +804,7 @@ projects = Project[
 		),
 		Solution(
 			"https://github.com/X/Y", # Git repo
-			"", # Youtube
+			"https://www.youtube.com/watch?v=jG-Kl1YIchY", # Youtube
 			"https://github.com/fjasic/DigDugProject/blob/master/digdug.bit", # Bit file
 			"https://github.com/fjasic/DigDugProject/blob/master/DigDug_dokumentacijaa.doc" # Doc file
 		),
