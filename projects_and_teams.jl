@@ -145,7 +145,7 @@ projects = Project[
 					"Kakuca",
 					"RA-147/2015",
 					"nebojsa96@live.com",
-					0
+					44
 				),
 				Student(
 					"Nemanja",
@@ -571,7 +571,7 @@ projects = Project[
 					"Lazovic",
 					"RA-2/2015",
 					"alazovic96@gmail.com",
-					0
+					44
 				),
 				Student(
 					"Aleksandar",
