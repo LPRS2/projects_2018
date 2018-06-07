@@ -803,10 +803,10 @@ projects = Project[
 			]
 		),
 		Solution(
-			"https://github.com/X/Y", # Git repo
-			"", # Youtube
-			"", # Bit file
-			"" # Doc file
+			"https://github.com/fjasic/DigDugProject", # Git repo
+			"https://www.youtube.com/watch?v=jG-Kl1YIchY", # Youtube
+			"https://github.com/fjasic/DigDugProject/blob/master/digdug.bit", # Bit file
+			"https://github.com/fjasic/DigDugProject/blob/master/DigDug_dokumentacijaa.doc" # Doc file
 		),
 		false
 	),
