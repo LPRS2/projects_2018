@@ -736,10 +736,10 @@ projects = Project[
 			]
 		),
 		Solution(
-			"https://github.com/X/Y", # Git repo
-			"", # Youtube
-			"", # Bit file
-			"" # Doc file
+			"https://github.com/Phaustus/Super_Mario.git", # Git repo
+			"https://youtu.be/JGzYIpUky0Y", # Youtube
+			"https://www.dropbox.com/s/wjqw4lh5y9e6kvt/Super_Mario.bit?dl=0", # Bit file
+			"https://github.com/Phaustus/Super_Mario/blob/master/Dokumentacija2.docx" # Doc file
 		),
 		false
 	),
