@@ -791,7 +791,7 @@ projects = Project[
 					"Jasic",
 					"RA-46/2014",
 					"filipjasic8@gmail.com",
-					0
+					44
 				),				
 			]
 		),
