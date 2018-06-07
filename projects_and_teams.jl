@@ -732,14 +732,14 @@ projects = Project[
 			"""
 			""",
 			URL[
-				URL("https://github.com/Phaustus/Super_Mario"),
+				URL("https://github.com/vukse95/super_mario"),
 			]
 		),
 		Solution(
-			"https://github.com/X/Y", # Git repo
+			"https://github.com/Phaustus/Super_Mario.git", # Git repo
 			"https://youtu.be/JGzYIpUky0Y", # Youtube
 			"https://www.dropbox.com/s/wjqw4lh5y9e6kvt/Super_Mario.bit?dl=0", # Bit file
-			"https://www.dropbox.com/s/f8stexy7osu9ve5/Dokumentacija.docx?dl=0" # Doc file
+			"https://github.com/Phaustus/Super_Mario/blob/master/Dokumentacija2.docx" # Doc file
 		),
 		false
 	),
