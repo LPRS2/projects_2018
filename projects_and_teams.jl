@@ -799,11 +799,11 @@ projects = Project[
 			"""
 			""",
 			URL[
-				URL("https://github.com/fjasic/DigDugProject"),
+				URL("https://github.com/MiljanV/DigDugProject"),
 			]
 		),
 		Solution(
-			"https://github.com/X/Y", # Git repo
+			"https://github.com/fjasic/DigDugProject", # Git repo
 			"https://www.youtube.com/watch?v=jG-Kl1YIchY", # Youtube
 			"https://github.com/fjasic/DigDugProject/blob/master/digdug.bit", # Bit file
 			"https://github.com/fjasic/DigDugProject/blob/master/DigDug_dokumentacijaa.doc" # Doc file
