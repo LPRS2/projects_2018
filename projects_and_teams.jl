@@ -172,9 +172,9 @@ projects = Project[
 		),
 		Solution(
 			"https://github.com/KakucaNebojsa/Boomberman", # Git repo
-			"", # Youtube
-			"", # Bit file
-			"" # Doc file
+			"https://www.youtube.com/watch?v=V5IfcWc_Ebo", # Youtube
+			"https://github.com/KakucaNebojsa/Boomberman/blob/master/Bomberman.bit", # Bit file
+			"https://github.com/KakucaNebojsa/Boomberman/blob/master/Bomberman-dokumentacija.docx" # Doc file
 		),
 		false
 	),
