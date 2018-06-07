@@ -1216,6 +1216,8 @@ projects = Project[
 additional = URL[
 	# Making bit file.
 	"https://www.youtube.com/watch?v=RBa6gx5Mx5c",
+	# VGA slow motion.
+	"https://www.youtube.com/watch?v=3BJU2drrtCM",
 	# Presentations.
 	# Fun.
 ]
