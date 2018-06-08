@@ -1203,10 +1203,10 @@ projects = Project[
 			]
 		),
 		Solution(
-			"https://github.com/X/Y", # Git repo
-			"", # Youtube
-			"", # Bit file
-			"" # Doc file
+			"https://github.com/SrdjanUske/8-bit-MIDI", # Git repo
+			"https://www.youtube.com/watch?v=j6Yf_29xFwE&feature=youtu.be", # Youtube
+			"https://github.com/SrdjanUske/8-bit-MIDI/blob/master/project/8-bit-MIDI.bit", # Bit file
+			"https://github.com/SrdjanUske/8-bit-MIDI/blob/master/docs/dokumentacija.docx" # Doc file
 		),
 		false
 	),
