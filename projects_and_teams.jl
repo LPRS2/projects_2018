@@ -604,10 +604,11 @@ projects = Project[
 			]
 		),
 		Solution(
-			"https://github.com/X/Y", # Git repo
-			"", # Youtube
-			"", # Bit file
-			"" # Doc file
+			"https://github.com/uros96/potapanjeBrodica", 											# Git repo
+			"https://www.youtube.com/watch?v=carpYddvtfQ", 											# Youtube
+			"https://github.com/uros96/potapanjeBrodica/blob/master/potapanje_brodica_master.bit",  # Bit file master
+			"https://github.com/uros96/potapanjeBrodica/blob/master/potapanje_brodica_slave.bit",   # Bit file slave
+			"https://github.com/uros96/potapanjeBrodica/blob/master/LPRS2-Potapanje_brodica.pdf"    # Doc file
 		),
 		false
 	),
