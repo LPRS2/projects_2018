@@ -1077,7 +1077,7 @@ projects = Project[
 					"Maja",
 					"Bugarin",
 					"RA-38/2015",
-					"xxx@yyy",
+					"bugarin.makiii96@gmail.com",
 					0
 				),
 				
@@ -1085,7 +1085,7 @@ projects = Project[
 					"Ksenija",
 					"Jovanovic",
 					"RA-88/2015",
-					"xxx@yyy",
+					"ksenija.jo996@gmail.com",
 					0
 				),
 				
@@ -1093,7 +1093,7 @@ projects = Project[
 					"Aleksandra",
 					"Jamina",
 					"RA-55/2015",
-					"xxx@yyy",
+					"aleksandra2606996@yahoo.com",
 					0
 				),
 			]
@@ -1107,10 +1107,10 @@ projects = Project[
 			]
 		),
 		Solution(
-			"https://github.com/X/Y", # Git repo
-			"", # Youtube
-			"", # Bit file
-			"" # Doc file
+			"https://github.com/Sandra2606996/MSAK_tetris", # Git repo
+			"https://www.youtube.com/watch?v=Q_IEFTvD00M", # Youtube
+			"https://github.com/Sandra2606996/MSAK_tetris/blob/master/tetris.bit", # Bit file
+			"https://github.com/Sandra2606996/MSAK_tetris/blob/master/TETRIS.docx" # Doc file
 		),
 		false
 	),
