@@ -840,10 +840,10 @@ projects = Project[
 			]
 		),
 		Solution(
-			"https://github.com/X/Y", # Git repo
+			"https://github.com/Izildur/MahjongProjekatLPRS2", # Git repo
 			"https://www.youtube.com/watch?v=M91lra2sk6Q", # Youtube
 			"", # Bit file
-			"https://github.com/Izildur/projects_2018.git" # Doc file
+			"https://github.com/Izildur/MahjongProjekatLPRS2/blob/master/LPRS2-Mahjong.docx" # Doc file
 		),
 		false
 	),
