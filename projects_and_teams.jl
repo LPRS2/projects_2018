@@ -843,7 +843,7 @@ projects = Project[
 			"https://github.com/X/Y", # Git repo
 			"https://www.youtube.com/watch?v=M91lra2sk6Q", # Youtube
 			"", # Bit file
-			"" # Doc file
+			"https://github.com/Izildur/projects_2018.git" # Doc file
 		),
 		false
 	),
