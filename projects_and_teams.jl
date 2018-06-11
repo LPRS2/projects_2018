@@ -848,10 +848,10 @@ projects = Project[
 			]
 		),
 		Solution(
-			"https://github.com/X/Y", # Git repo
-			"", # Youtube
+			"https://github.com/Izildur/MahjongProjekatLPRS2", # Git repo
+			"https://www.youtube.com/watch?v=M91lra2sk6Q", # Youtube
 			"", # Bit file
-			"" # Doc file
+			"https://github.com/Izildur/MahjongProjekatLPRS2/blob/master/LPRS2-Mahjong.docx" # Doc file
 		),
 		false
 	),
