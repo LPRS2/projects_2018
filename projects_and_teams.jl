@@ -892,10 +892,10 @@ projects = Project[
 			]
 		),
 		Solution(
-			"https://github.com/X/Y", # Git repo
-			"", # Youtube
+			"https://github.com/BagiJ/PacmanLPRS2", # Git repo
+			"https://www.youtube.com/watch?v=dU5IELAtIAg", # Youtube
 			"", # Bit file
-			"" # Doc file
+			"https://github.com/BagiJ/PacmanLPRS2/blob/master/Pacman.docx" # Doc file
 		),
 		false
 	),
