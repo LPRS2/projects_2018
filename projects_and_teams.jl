@@ -25,7 +25,7 @@ type Solution
 	youtube::URL
 	# download.bit HW+SW
 	# Could set URL to file in github master blob.
-	release_bit::URL
+	release_bit::Union{URL,Vector{URL}}
 	# Short project documentation.
 	# Could set URL to file in github master blob.
 	doc::URL
@@ -38,7 +38,7 @@ type Project
 	team::Team
 	spec::Spec
 	solution::Solution
-	done::Bool
+	done::Bool #TODO Remove this field.
 end
 
 
@@ -126,8 +126,7 @@ projects = Project[
 			]
 		),
 		Solution(
-			"https://github.com/CubeLord/LPRS2-Zelda.gitq",
-# Git repo
+			"https://github.com/CubeLord/LPRS2-Zelda.git", # Git repo
 			"https://www.youtube.com/watch?v=0CTFHpnBlLo&feature=youtu.be", # Youtube
 			"https://github.com/CubeLord/LPRS2-Zelda/blob/master/Legend_Of_Zelda.bit", # Bit file
 			"https://github.com/CubeLord/LPRS2-Zelda/blob/master/legend_of_zelda.pdf" # Doc file
@@ -606,8 +605,10 @@ projects = Project[
 		Solution(
 			"https://github.com/uros96/potapanjeBrodica", 											# Git repo
 			"https://www.youtube.com/watch?v=carpYddvtfQ", 											# Youtube
-			"https://github.com/uros96/potapanjeBrodica/blob/master/potapanje_brodica_master.bit",  # Bit file master
-			"https://github.com/uros96/potapanjeBrodica/blob/master/potapanje_brodica_slave.bit",   # Bit file slave
+			[
+				"https://github.com/uros96/potapanjeBrodica/blob/master/potapanje_brodica_master.bit",  # Bit file master
+				"https://github.com/uros96/potapanjeBrodica/blob/master/potapanje_brodica_slave.bit",   # Bit file slave
+			],
 			"https://github.com/uros96/potapanjeBrodica/blob/master/LPRS2-Potapanje_brodica.pdf"    # Doc file
 		),
 		false
@@ -1242,7 +1243,7 @@ function project_taken(project::Project)
 	!any(map((member) -> member.name == "??", project.team.members))
 end
 
-if false
+if true
 	for project in projects
 		if !project.done && project_taken(project)
 			println("Not done: ", project.name)
