@@ -38,7 +38,6 @@ type Project
 	team::Team
 	spec::Spec
 	solution::Solution
-	done::Bool #TODO Remove this field.
 end
 
 
@@ -86,8 +85,7 @@ projects = Project[
 			"https://www.youtube.com/watch?v=wnii1x77cQU", # Youtube
 			"https://github.com/randomCharacter/E2LP_NES/releases/download/v1.0/nes.bit", # Bit file
 			"https://github.com/randomCharacter/E2LP_NES/blob/master/doc/dokumentacija.pdf" # Doc file
-		),
-		false
+		)
 	),
 	Project(
 		"Legend Of Zelda",
@@ -130,8 +128,7 @@ projects = Project[
 			"https://www.youtube.com/watch?v=0CTFHpnBlLo&feature=youtu.be", # Youtube
 			"https://github.com/CubeLord/LPRS2-Zelda/blob/master/Legend_Of_Zelda.bit", # Bit file
 			"https://github.com/CubeLord/LPRS2-Zelda/blob/master/legend_of_zelda.pdf" # Doc file
-		),
-		false
+		)
 	),
 	Project(
 		"Boomberman",
@@ -174,8 +171,7 @@ projects = Project[
 			"https://www.youtube.com/watch?v=V5IfcWc_Ebo", # Youtube
 			"https://github.com/KakucaNebojsa/Boomberman/blob/master/Bomberman.bit", # Bit file
 			"https://github.com/KakucaNebojsa/Boomberman/blob/master/Bomberman-dokumentacija.docx" # Doc file
-		),
-		false
+		)
 	),
 	Project(
 		"Sensible Soccer",
@@ -211,8 +207,7 @@ projects = Project[
 			"", # Youtube
 			"", # Bit file
 			"" # Doc file
-		),
-		false
+		)
 	),
 	Project(
 		"Duck Hunt",
@@ -262,8 +257,7 @@ projects = Project[
 			"https://www.youtube.com/watch?v=MpmgGTueH8o", # Youtube
 			"https://github.com/mladja777/duck_hunt/blob/master/battle_city_design/duck_hunt.bit", # Bit file
 			"https://github.com/mladja777/duck_hunt/blob/master/Izvestaj.pdf" # Doc file
-		),
-		false
+		)
 	),
 	Project(
 		"Štoljpi za Duck Hunt",
@@ -299,8 +293,7 @@ projects = Project[
 			"https://www.youtube.com/watch?v=vlJk6v707PM", # Youtube
 			"https://github.com/NikolaMal/Stoljpi_za_duck_hunt/blob/master/Stoljpi_za_duck_hunt/Stoljpi_Project/implementation/download.bit", # Bit file
 			"https://github.com/NikolaMal/Stoljpi_za_duck_hunt/blob/master/stoljpi_doc.pdf" # Doc file
-		),
-		false
+		)
 	),
 	Project(
 		"Worms",
@@ -350,8 +343,7 @@ projects = Project[
 			"https://www.youtube.com/watch?v=Mi3ZPkKe-oc", # Youtube
 			"https://github.com/BranislavNovak/Worms/blob/master/worms.bit", # Bit file
 			"https://github.com/BranislavNovak/Worms/blob/master/Worms.pdf" # Doc file
-		),
-		false
+		)
 	),
 	Project(
 		"New Rally X",
@@ -401,8 +393,7 @@ projects = Project[
 			"https://youtu.be/18Z-5beB13A", # Youtube
 			"https://github.com/0x8000/new_rally_x/blob/master/NewRallyX.bit", # Bit file
 			"https://github.com/0x8000/new_rally_x/blob/master/Prezentacija%2C%20dokumentacija.pdf" # Doc file
-		),
-		false
+		)
 	),
 	Project(
 		"Risico",
@@ -438,8 +429,7 @@ projects = Project[
 			"", # Youtube
 			"", # Bit file
 			"" # Doc file
-		),
-		false
+		)
 	),
 	Project(
 		"The World's Hardest Game",
@@ -482,8 +472,7 @@ projects = Project[
 			"https://youtu.be/WKC8rEK4Ln4", # Youtube
 			"https://github.com/AleksaArsic/LPRS2-WorldsHardestGame/blob/master/LPRS2_Asteroids_game-master/WorldsHardestGame.bit", # Bit file
 			"https://github.com/AleksaArsic/LPRS2-WorldsHardestGame/blob/master/WorldsHardestGame.docx" # Doc file
-		),
-		false
+		)
 	),
 	Project(
 		"Tap That Cat with Colors",
@@ -519,8 +508,7 @@ projects = Project[
 			"", # Youtube
 			"", # Bit file
 			"" # Doc file
-		),
-		false
+		)
 	),
 	Project(
 		"Pie with Rationals",
@@ -556,8 +544,7 @@ projects = Project[
 			"", # Youtube
 			"", # Bit file
 			"" # Doc file
-		),
-		false
+		)
 	),
 	Project(
 		"Potapanje brodića",
@@ -610,8 +597,7 @@ projects = Project[
 				"https://github.com/uros96/potapanjeBrodica/blob/master/potapanje_brodica_slave.bit",   # Bit file slave
 			],
 			"https://github.com/uros96/potapanjeBrodica/blob/master/LPRS2-Potapanje_brodica.pdf"    # Doc file
-		),
-		false
+		)
 	),
 	Project(
 		"DMA",
@@ -647,8 +633,7 @@ projects = Project[
 			"", # Youtube
 			"", # Bit file
 			"" # Doc file
-		),
-		false
+		)
 	),
 	Project(
 		"Tenkići",
@@ -698,8 +683,7 @@ projects = Project[
 			"https://www.youtube.com/watch?v=Zlc82t1uIKM", # Youtube
 			"https://github.com/stefankoncarevic/Tenkici_ima_da_lete/blob/master/battle_city_design/demo/battle_city.bit", # Bit file
 			"https://drive.google.com/open?id=1-SSevX1OZZwDJ7P5RfUtQV7fHGoBChEJ" # Doc file
-		),
-		false
+		)
 	),
 	Project(
 		"Super Mario",
@@ -742,8 +726,7 @@ projects = Project[
 			"https://youtu.be/JGzYIpUky0Y", # Youtube
 			"https://www.dropbox.com/s/wjqw4lh5y9e6kvt/Super_Mario.bit?dl=0", # Bit file
 			"https://github.com/Phaustus/Super_Mario/blob/master/Dokumentacija2.docx" # Doc file
-		),
-		false
+		)
 	),
 	Project(
 		"Galaga",
@@ -779,8 +762,7 @@ projects = Project[
 			"https://youtu.be/Ug_26g7qbuc", # Youtube
 			"https://github.com/milicaokuka/Galaga/blob/master/galaga.bit", # Bit file
 			"https://github.com/milicaokuka/Galaga/blob/master/Galaga.docx" # Doc file
-		),
-		false
+		)
 	),
 	Project(
 		"Dig Dug",
@@ -809,8 +791,7 @@ projects = Project[
 			"https://www.youtube.com/watch?v=jG-Kl1YIchY", # Youtube
 			"https://github.com/fjasic/DigDugProject/blob/master/digdug.bit", # Bit file
 			"https://github.com/fjasic/DigDugProject/blob/master/DigDug_dokumentacijaa.doc" # Doc file
-		),
-		false
+		)
 	),
 	Project(
 		"麻将 – Mahjong",
@@ -853,8 +834,7 @@ projects = Project[
 			"https://www.youtube.com/watch?v=M91lra2sk6Q", # Youtube
 			"", # Bit file
 			"https://github.com/Izildur/MahjongProjekatLPRS2/blob/master/LPRS2-Mahjong.docx" # Doc file
-		),
-		false
+		)
 	),
 	Project(
 		"Pacman",
@@ -897,8 +877,7 @@ projects = Project[
 			"https://www.youtube.com/watch?v=dU5IELAtIAg", # Youtube
 			"", # Bit file
 			"https://github.com/BagiJ/PacmanLPRS2/blob/master/Pacman.docx" # Doc file
-		),
-		false
+		)
 	),
 	Project(
 		"Trap Adventure",
@@ -948,8 +927,7 @@ projects = Project[
 			"https://www.youtube.com/watch?v=n4gA8iTTFBE", # Youtube
 			"https://github.com/blackhawkmc/Trap_Adventure/blob/master/battle_city_design/demo/TrapAdventure.bit", # Bit file
 			"https://github.com/blackhawkmc/Trap_Adventure/blob/master/TrapAdventure.doc" # Doc file
-		),
-		false
+		)
 	),
 	Project(
 		"Ice Climber",
@@ -985,8 +963,7 @@ projects = Project[
 			"", # Youtube
 			"", # Bit file
 			"" # Doc file
-		),
-		false
+		)
 	),
 	Project(
 		"Lode Runner",
@@ -1022,8 +999,7 @@ projects = Project[
 			"", # Youtube
 			"", # Bit file
 			"" # Doc file
-		),
-		false
+		)
 	),
 	Project(
 		"Zagrađivanje",
@@ -1059,8 +1035,7 @@ projects = Project[
 			"", # Youtube
 			"", # Bit file
 			"" # Doc file
-		),
-		false
+		)
 	),
 	Project(
 		"Advance Tetris",
@@ -1113,8 +1088,7 @@ projects = Project[
 			"https://www.youtube.com/watch?v=Q_IEFTvD00M", # Youtube
 			"https://github.com/Sandra2606996/MSAK_tetris/blob/master/tetris.bit", # Bit file
 			"https://github.com/Sandra2606996/MSAK_tetris/blob/master/TETRIS.docx" # Doc file
-		),
-		false
+		)
 	),
 	Project(
 		"Tower Defence",
@@ -1164,8 +1138,7 @@ projects = Project[
 			"https://www.youtube.com/watch?v=-AOyvGvH7hY", # Youtube
 			"https://github.com/stefan9x/lprs2-TowerDefence/blob/master/towerdefence.bit", # Bit file
 			"https://github.com/stefan9x/lprs2-TowerDefence/blob/master/TowerDefence-dokumentacija.docx" # Doc file
-		),
-		false
+		)
 	),
 	Project(
 		"8-bit MIDI",
@@ -1209,8 +1182,7 @@ projects = Project[
 			"https://www.youtube.com/watch?v=j6Yf_29xFwE&feature=youtu.be", # Youtube
 			"https://github.com/SrdjanUske/8-bit-MIDI/blob/master/project/8-bit-MIDI.bit", # Bit file
 			"https://github.com/SrdjanUske/8-bit-MIDI/blob/master/docs/dokumentacija.docx" # Doc file
-		),
-		false
+		)
 	),
 	
 ]
@@ -1240,12 +1212,19 @@ N_students = sum(map(no_of_students, projects))
 @show N_students
 
 function project_taken(project::Project)
-	!any(map((member) -> member.name == "??", project.team.members))
+	!any(map((member) -> member.name == "Name", project.team.members))
+end
+
+function project_done(project::Project)
+	s = project.solution
+	done = s.repo != "https://github.com/X/Y" && s.youtube != "" && s.doc != ""
+		#s.release_bit != "" 
+	return done
 end
 
 if true
 	for project in projects
-		if !project.done && project_taken(project)
+		if project_taken(project) && !project_done(project)
 			println("Not done: ", project.name)
 		end
 	end
