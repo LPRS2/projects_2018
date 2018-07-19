@@ -1243,4 +1243,23 @@ if false
 	end
 end
 
+N_youtube = 0
+for project in projects
+	if project_taken(project) && project.solution.youtube != ""
+		N_youtube += 1
+	end
+end
+@show N_youtube
+
+if false
+	println("Youtube URLs:")
+	for project in projects
+		if project_taken(project) && project.solution.youtube != ""
+			println(project.solution.youtube)
+		end
+	end
+end
+
+println("End")
+
 ###############################################################################
